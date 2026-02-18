@@ -1,6 +1,6 @@
-# APT-Tutorial-Week-1
+# APT-Workshop-Week-1
 
-## Learning Logs - Tutorial 1 
+## Learning Logs - Workshop 1 
 
 When you are learning something new, it is easy to forget what you already studied.
 For example, while learning programming or any technical subject, you may read many
