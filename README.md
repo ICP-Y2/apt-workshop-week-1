@@ -25,18 +25,18 @@ Create a **terminal-based Learning Logs application** using Java.
 
 ### Task 1: Topics 
 - Allow the user to:
-  - Add a new topic
-  - View all topics
+  - [ ] Add a new topic
+  - [ ] View all topics
 - Each topic has a name.
 
 ---
 ### Task 2: Entries 
 - Allow the user to:
-  - Add a learning entry under a topic
-  - View learning entries
+  - [ ] Add a learning entry under a topic
+  - [ ] View learning entries
 - Entries are short notes related to a topic.
 ## Bonus Tasks (For Practice)
--  View entries of a certain topic
+- [ ] View entries of a certain topic
 
 ---
 
