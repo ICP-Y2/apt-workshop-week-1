@@ -71,3 +71,9 @@ Create a **terminal-based Learning Logs application** using Java.
 | 1    | Prevent duplicate topic names    | `Programming` added twice      | Duplicate topic is not allowed |
 | 2    | Improve topic search performance | Many topics                    | Topic is found efficiently     |
 | 3    | Case-insensitive topic search    | `programming` vs `Programming` | Topic is matched correctly     |
+
+## Setup Instructions
+
+Please follow the setup guide here:
+
+👉 [Open Setup Guide](./setup.md)
